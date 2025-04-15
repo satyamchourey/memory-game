@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/satyamchourey/memory-game/static/css/main.06c53dda.css",
+    "main.js": "/satyamchourey/memory-game/static/js/main.561bca32.js",
+    "static/js/592.f45bd254.chunk.js": "/satyamchourey/memory-game/static/js/592.f45bd254.chunk.js",
+    "static/media/bg.mp4": "/satyamchourey/memory-game/static/media/bg.65861429380b680303c5.mp4",
+    "index.html": "/satyamchourey/memory-game/index.html",
+    "main.06c53dda.css.map": "/satyamchourey/memory-game/static/css/main.06c53dda.css.map",
+    "main.561bca32.js.map": "/satyamchourey/memory-game/static/js/main.561bca32.js.map",
+    "592.f45bd254.chunk.js.map": "/satyamchourey/memory-game/static/js/592.f45bd254.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06c53dda.css",
+    "static/js/main.561bca32.js"
+  ]
+}
