@@ -345,7 +345,13 @@ section{
   justify-content: center;
   align-items: center;
 }
-
+@media only screen and (max-width: 480px) {
+  #number-board td input {
+    width: 35px;
+    height: 40px;
+    padding: 0;
+  }
+}
 #number-board td input{
   width: 100px;
   height: 100px;
